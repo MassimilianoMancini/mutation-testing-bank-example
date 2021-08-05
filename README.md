@@ -1,0 +1,1 @@
+Example of mutation testing on bank example
